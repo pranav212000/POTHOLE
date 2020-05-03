@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1063967923887",
+    "firebase_url": "https://pothole-6f25c.firebaseio.com",
+    "project_id": "pothole-6f25c",
+    "storage_bucket": "pothole-6f25c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063967923887:android:32b9a491b7cb684428be5a",
+        "android_client_info": {
+          "package_name": "com.example.pothole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063967923887-ur7djp7s6k619kdbrgut22s8oi5ccup6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pothole",
+            "certificate_hash": "864c0de7735cd278039a18913b039e7217436aaf"
+          }
+        },
+        {
+          "client_id": "1063967923887-nmldpg48fv7hv366d65u6l0sa6vnuj5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoB__z0g77AU4fv48Ih6e9Q8Mfd4564Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063967923887-nmldpg48fv7hv366d65u6l0sa6vnuj5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
